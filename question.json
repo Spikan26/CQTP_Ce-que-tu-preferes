@@ -1,0 +1,675 @@
+{
+    "list_questions": [
+        {
+            "id": "1",
+            "question": "Couleur préférée ?",
+            "reponses": [
+                "Rouge",
+                "Bleu",
+                "Vert",
+                "Jaune",
+                "Orange",
+                "Marron",
+                "Noir (même si c'est pas une couleur)",
+                "Le thème Blanc",
+                "Violet",
+                "Rose"
+            ]
+        },
+        {
+            "id": "2",
+            "question": "Plat favori ?",
+            "reponses": [
+                "STEAK",
+                "La raclette",
+                "Saumon fumée avec du riz",
+                "Croque-monsieur"
+            ]
+        },
+        {
+            "id": "3",
+            "question": "Marque de mayonnaise préférée ?",
+            "reponses": [
+                "Maille",
+                "Celle de maman :)",
+                "Heinz",
+                "Amora",
+                "Bénédicta",
+                "Lesieur"
+            ]
+        },
+        {
+            "id": "4",
+            "question": "Chanteur de Vocaloid préféré ?",
+            "reponses": [
+                "Miku",
+                "Rin",
+                "Len",
+                "GUMI",
+                "Luka",
+                "CUL",
+                "Meiko",
+                "Kaito",
+                "Le blond là"
+            ]
+        },
+        {
+            "id": "5",
+            "question": "Taille du cornichon optimal ?",
+            "reponses": [
+                "Gros et juteux",
+                "Tant que ça se mange",
+                "8cm",
+                "Un pouce",
+                "J'ai faim",
+                "12cm",
+                "La taille du pot",
+                "9cm",
+                "15cm"
+            ]
+        },
+        {
+            "id": "6",
+            "question": "Nombre de trou idéal sur un pommeau de douche ?",
+            "reponses": [
+                "Un seul, mais un sacré trou",
+                "Deux, pour un maximum de plaisir",
+                "42",
+                "Avec ou sans fuite ?",
+                "300",
+                "88",
+                "11 trous, oui j'ai compté",
+                "28",
+                "0, pas besoin de douche"
+            ]
+        },
+        {
+            "id": "7",
+            "question": "Marque de papier toilette préférée ?",
+            "reponses": [
+                "Lotus",
+                "Okay",
+                "Moltonel",
+                "Kleenex",
+                "Feuille à poncer Bosh",
+                "La brosse",
+                "Mes impôts"
+            ]
+        },
+        {
+            "id": "8",
+            "question": "Forme de patate favorite ?",
+            "reponses": [
+                "En cube",
+                "CHIPS",
+                "En tranche",
+                "En Frites",
+                "En bonne purée",
+                "Cuite",
+                "Entière"
+            ]
+        },
+        {
+            "id": "9",
+            "question": "Couleur d'éclairage le plus jolie ?",
+            "reponses": [
+                "RGB pour les G@m3rz",
+                "Orange",
+                "Tamisé",
+                "Bleu",
+                "Couleur chaude"
+            ]
+        },
+        {
+            "id": "10",
+            "question": "Type de plage préféré ?",
+            "reponses": [
+                "Avec du sable",
+                "Déserte",
+                "Tout mais pas les galets",
+                "Avec de l'ombre quand même",
+                "Pas de vent",
+                "Avec des ilôts",
+                "CHOUCHOU, BEIGNET"
+            ]
+        },
+        {
+            "id": "11",
+            "question": "Boisson favorite ?",
+            "reponses": [
+                "L'eau",
+                "Déso pas déso, Coca Zero",
+                "Sirop de pêche",
+                "Limonade",
+                "Sirop de citron",
+                "Bière",
+                "Jus de pomme",
+                "Chocolat chaud",
+                "Café"
+            ]
+        },
+        {
+            "id": "12",
+            "question": "Genre de musique préféré ?",
+            "reponses": [
+                "Rock",
+                "K-Pop",
+                "METAAAL",
+                "Chill",
+                "Classique",
+                "Musique de jeu",
+                "Medieval-core",
+                "Rap, mais le bon, pas le mauvais",
+                "Chiptune"
+            ]
+        },
+        {
+            "id": "13",
+            "question": "Instrument de musique favori ?",
+            "reponses": [
+                "Piano",
+                "Violon",
+                "Harpe",
+                "Triangle",
+                "Basse",
+                "Guitare acoustique",
+                "Guitare electrique",
+                "Percussion",
+                "Flute",
+                "Trompette",
+                "Otamatone",
+                "Kazoo",
+                "Un bébé sous autotune"
+            ]
+        },
+        {
+            "id": "14",
+            "question": "Genre de jeu vidéo favori ?",
+            "reponses": [
+                "Action",
+                "Aventure",
+                "RPG",
+                "Roguelike/Roguelite",
+                "Jeu de carte",
+                "Narratif",
+                "Détente",
+                "FPS",
+                "Gestion",
+                "Course",
+                "Puzzle",
+                "Plateforme",
+                "Avec des chats"
+            ]
+        },
+        {
+            "id": "15",
+            "question": "Tension artérielle moyenne ?",
+            "reponses": [
+                "Je meurs",
+                "Trop basse",
+                "ERREUR: Changez les piles",
+                "Ok",
+                "J'en sais rien moi",
+                "Je suis en vie",
+                "World Record",
+                "42"
+            ]
+        },
+        {
+            "id": "16",
+            "question": "Conflit politique favori ?",
+            "reponses": [
+                "La guerre en Ukraine",
+                "Mélenchon et la droite",
+                "L'invasion chinoise",
+                "JOKER",
+                "La corée du nord",
+                "Les gilets jaunes",
+                "Le conflit israélo palestinien",
+                "Les enfants du Congo qui arrêtent pas de mourrir de faim",
+                "Les français qui imitent les américains"
+            ]
+        },
+        {
+            "id": "17",
+            "question": "Pays favori ?",
+            "reponses": [
+                "La France",
+                "L'Espagne",
+                "L'Italie",
+                "L'Allemagne",
+                "La Belgique",
+                "Le Japon",
+                "Le Canada",
+                "La Chine",
+                "Chez moi"
+            ]
+        },
+        {
+            "id": "18",
+            "question": "Animal favori ?",
+            "reponses": [
+                "Chat",
+                "Chien",
+                "Le Monkey",
+                "BIRB",
+                "Hamster",
+                "Tema la taille du rat",
+                "Panda roux",
+                "Un serpent",
+                "Le Pigeon"
+            ]
+        },
+        {
+            "id": "19",
+            "question": "Mon animal totem ?",
+            "reponses": [
+                "Chat",
+                "Chien",
+                "Le Monkey",
+                "BIRB",
+                "Le Hamster",
+                "Tema la taille du rat",
+                "Panda roux",
+                "Un serpent",
+                "Le Pigeon",
+                "Le Paresseux",
+                "Le hérisson",
+                "Le cactus (c'est un être vivant OK ?!)"
+            ]
+        },
+        {
+            "id": "20",
+            "question": "Type d'eau favorite ?",
+            "reponses": [
+                "Plate",
+                "Gazeuse",
+                "En bouteille",
+                "Au robinet",
+                "Celle des chiottes",
+                "L'eau de mer",
+                "L'eau de la piscine",
+                "La pluie",
+                "l'eau d'un lac",
+                "Glacée",
+                "Bouillante"
+            ]
+        },
+        {
+            "id": "21",
+            "question": "Pokemon favori ?",
+            "reponses": [
+                "Pikachu",
+                "Salameche",
+                "Bulbizarre",
+                "Carapute",
+                "Tiplouf",
+                "Gardevoir",
+                "Lucario",
+                "Gobou",
+                "Noctali",
+                "Evoli",
+                "Givrali",
+                "Aquali",
+                "Brindibou",
+                "Mew",
+                "Furret",
+                "Moumouton",
+                "Germignon",
+                "Shaymin",
+                "Poussifeu",
+                "Keunotor"
+            ]
+        },
+        {
+            "id": "22",
+            "question": "Fleur préférée ?",
+            "reponses": [
+                "Rose",
+                "Coquelicot",
+                "Muguet",
+                "Lys",
+                "Tulipe",
+                "Violette"
+            ]
+        },
+        {
+            "id": "23",
+            "question": "Météo favorite ?",
+            "reponses": [
+                "PRAISE THE SUN",
+                "Ensoleillé",
+                "Un peu nuageux",
+                "Avec du vent mais pas trop",
+                "Pluvieux",
+                "La neige !! LA NEIGE !!",
+                "Tornade contre mon voisin",
+                "Ciel bleu et pas chaud"
+            ]
+        },
+        {
+            "id": "24",
+            "question": "Vitesse du vent idéale ?",
+            "reponses": [
+                "Un petit peu",
+                "J'veux m'envoler !!!",
+                "40km/h",
+                "22km/h",
+                "Reproduction du film 'Là-haut'",
+                "0, c'est très bien 0",
+                "Ca dépend de la météo",
+                "Je ne pense pas qu'il y ai de bonne ou de mauvaise vitesse de vent..."
+            ]
+        },
+        {
+            "id": "25",
+            "question": "Pourcentage idéal de couette sur le corps  ?",
+            "reponses": [
+                "100%",
+                "Tout sauf la tête",
+                "Le pied qui dépasse",
+                "80%",
+                "0%, on m'a piqué ma couette :(",
+                "50/50",
+                "69%",
+                "110%"
+            ]
+        },
+        {
+            "id": "26",
+            "question": "Nombre d'ampoule actuel dans la pièce ?",
+            "reponses": [
+                "Une seule",
+                "Trop",
+                "Zero, je vois rien",
+                "3",
+                "5",
+                "Ca compte celle aux mains ?",
+                "12"
+            ]
+        },
+        {
+            "id": "27",
+            "question": "Nombre de chaise idéale pour une table ?",
+            "reponses": [
+                "Une seule, j'aime quand mes invités mangent debout et par terre",
+                "4",
+                "6",
+                "2",
+                "4, mais sur la table, pas au sol",
+                "Je préfère les tabourets",
+                "0, démerdez vous"
+            ]
+        },
+        {
+            "id": "28",
+            "question": "Nombre de sucre parfait ?",
+            "reponses": [
+                "1",
+                "2",
+                "Aucun",
+                "L'équivalent de la tasse, vive le diabète",
+                "Je met du sel perso",
+                "Mais c'est quoi la boisson ?",
+                "1,2764 sucres"
+            ]
+        },
+        {
+            "id": "29",
+            "question": "Gâteau favori ?",
+            "reponses": [
+                "Tarte Citron !",
+                "Framboisier",
+                "Au chocolaaat",
+                "Aux choux caramélisé",
+                "Gâteau de pâte",
+                "Aux fruits exotique",
+                "Tant qu'il y a masse crème, ca me va"
+            ]
+        },
+        {
+            "id": "30",
+            "question": "Lieu idéal pour les vacances ?",
+            "reponses": [
+                "A la plage",
+                "A la montagne",
+                "En campagne",
+                "Chez moi",
+                "Le Japon",
+                "Mon jardin, c'est bien mon jardin",
+                "N'importe où, tant que c'est avec les amis",
+                "Au Canada !",
+                "Sur une île sans les cons"
+            ]
+        },
+        {
+            "id": "31",
+            "question": "Heure pour aller dormir ?",
+            "reponses": [
+                "22h, j'ai besoin de sommeil",
+                "23h",
+                "Pas au dela de minuit",
+                "2-3 heures, ca passe non ?",
+                "Dor-quoi ?",
+                "C'est pas opti de dormir",
+                "Maintenant"
+            ]
+        },
+        {
+            "id": "32",
+            "question": "Nombre de serveur Discord ?",
+            "reponses": [
+                "J'ai la flemme de compter",
+                "23",
+                "8",
+                "14",
+                "Trop",
+                "Actif ou pas ?",
+                "Entre 1 et 100"
+            ]
+        },
+        {
+            "id": "33",
+            "question": "Nombre de partie gagné sur 100% Orange Juice ?",
+            "reponses": [
+                "C'est quoi ce jeu ?",
+                "J'ai pas le jeu",
+                "0, je joue pas",
+                "81",
+                "117",
+                "72",
+                "36"
+            ]
+        },
+        {
+            "id": "34",
+            "question": "Combien de branche pour un niz d'oiseau ?",
+            "reponses": [
+                "Une seule, mais une grosse",
+                "160",
+                "3, tu fais un triangle avec",
+                "200",
+                "J'en sais rien, j'suis pas un piaf",
+                "Il peut pas faire une maison comme tout le monde ?",
+                "Au moins 2",
+                "400 environ"
+            ]
+        },
+        {
+            "id": "35",
+            "question": "Nombre de stylo idéal dans une trousse ?",
+            "reponses": [
+                "Un seul, les autres marchent pas",
+                "4",
+                "Un pour chaque couleur",
+                "0, pas besoin de trousse, je suis un chad",
+                "8",
+                "Il n'y a jamais assez de stylo",
+                "6",
+                "5"
+            ]
+        },
+        {
+            "id": "36",
+            "question": "Ornement de chapeau préféré ?",
+            "reponses": [
+                "Des pins !",
+                "Une belle plume",
+                "Des gravures",
+                "Une fleur sur le côté",
+                "Aucun",
+                "Des lunettes steampunk"
+            ]
+        },
+        {
+            "id": "37",
+            "question": "Hauteur de plafond parfaite pour la salle de bain ?",
+            "reponses": [
+                "2 mètres",
+                "3 mètres",
+                "1 mètre, j'aime me péter le dos pendant ma douche",
+                "Environ 2 fois ma taille",
+                "10 mètres, aucune gouttes ne doit toucher le plafond",
+                "De quoi toucher du bout des doigts"
+            ]
+        },
+        {
+            "id": "38",
+            "question": "Pourcentage préféré de sel dans l'eau ?",
+            "reponses": [
+                "100%",
+                "20%",
+                "Dans la mer ou pour les pâtes ?",
+                "Ma poignée de main / 100",
+                "Tant que je vois pas le sel, c'est good",
+                "Un petit peu, quelques grain",
+                "L'équivalent de la scène E-sport de League of Legends"
+            ]
+        },
+        {
+            "id": "39",
+            "question": "Nombre préféré ?",
+            "reponses": [
+                "3",
+                "7",
+                "13",
+                "4",
+                "42",
+                "69",
+                "Quarante-douze",
+                "Bleu"
+            ]
+        },
+        {
+            "id": "40",
+            "question": "Quelle sauce pour les hot-dogs ?",
+            "reponses": [
+                "Ketchup",
+                "Mayo",
+                "BBQ",
+                "Moutarde",
+                "TOUT",
+                "Une avec les oignons frits",
+                "Nature voyons",
+                "Sauce fromagère"
+            ]
+        },
+        {
+            "id": "41",
+            "question": "Outil préféré pour réparer ?",
+            "reponses": [
+                "Marteau !",
+                "Scotch",
+                "Une grenade",
+                "Mon voisin",
+                "Le technicien de chez Orange",
+                "une aiguille",
+                "La colle",
+                "Des nouilles"
+            ]
+        },
+        {
+            "id": "42",
+            "question": "Format de fichier favori ?",
+            "reponses": [
+                "PNG",
+                "MP3",
+                "MP4",
+                "MP5 (la mitrailette)",
+                "Le GIF (et pas le JIF)",
+                "JPEG",
+                "JSON",
+                "ZIP"
+            ]
+        },
+        {
+            "id": "43",
+            "question": "La bonne longueur de barbe ?",
+            "reponses": [
+                "Juste ce qu'il faut",
+                "Rien",
+                "1-2cm",
+                "5cm",
+                "Bien longue",
+                "De quoi cacher le frigo",
+                "Celle du Père Fouras"
+            ]
+        },
+        {
+            "id": "44",
+            "question": "Nombre d'ingrédient dans un tacos ?",
+            "reponses": [
+                "Juste la galette nature",
+                "Salade tomate oignon",
+                "8 viandes et 11 sauces fromagère",
+                "Entre 8 et 10",
+                "Suffisament pour qu'il tienne",
+                "Ca dépend de la taille",
+                "6"
+            ]
+        },
+        {
+            "id": "45",
+            "question": "Jour de semaine de naissance ?",
+            "reponses": [
+                "Lundi",
+                "Mardi",
+                "Mercredi",
+                "Jeudi",
+                "Vendredi",
+                "Samedi",
+                "Dimanche",
+                "J'en sais rien",
+                "Entre lundi et dimanche"
+            ]
+        },
+        {
+            "id": "46",
+            "question": "Meilleur fromage pour faire un meuble ?",
+            "reponses": [
+                "Le Babybel",
+                "La Mimolette",
+                "La Tome de savoie",
+                "Le Comté",
+                "Le Brie",
+                "Le Parmesan",
+                "Le Ficello",
+                "Le Camembert",
+                "Le Roquefort"
+            ]
+        },
+        {
+            "id": "47",
+            "question": "Nombre de part coupé pour une pizza ?",
+            "reponses": [
+                "0, j'ai mangé la pizza",
+                "En 4",
+                "En 6",
+                "En 8",
+                "2 mais en faisant des drift",
+                "Je l'enroule perso",
+                "Selon le nombre d'invité"
+            ]
+        }
+    ]
+}
